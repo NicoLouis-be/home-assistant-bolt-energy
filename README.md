@@ -1,6 +1,6 @@
 # home-assistant-bolt-energy
 
-pyscript to automatic import the variable new tariff of bolt energy
+pyscript to automatic import the new variable tariff of "bolt energy"
 
 prices are fetched from the online pdf file that bolt updates every month or quarter
 
@@ -9,9 +9,11 @@ https://www.boltenergie.be/nl/prijslijsten?gclid=CjwKCAjwvNaYBhA3EiwACgndgrxjotw
 First install pyscript through hacs
 
 I manual updated the configuration.yaml file
+<pre><code>
 pyscript:
   allow_all_imports: true
   hass_is_global: true
+</pre></code>
   
 dowload both files (requirement.txt and utilityprice.py) and place them in the "pyscript" folder under home assistant
 
