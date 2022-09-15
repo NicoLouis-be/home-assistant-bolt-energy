@@ -33,7 +33,7 @@ settings are:
  <ul>
   <li>entity_id: the entity where the value needs to be written to, i use input_number but can also be a sensor</li>
   <li>subscription: the contract you have "bolt" "online" or "go"</li>
-  <li>residential: can be res (residential) or pro (profecional)</li>
+  <li>residential: can be res (residential) or pro (professional)</li>
   <li>utility: gas or electricity</li>
 </ul>
     
