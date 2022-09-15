@@ -37,3 +37,10 @@ settings are:
   <li>utility: gas or electricity</li>
 </ul>
     
+# TODO
+  variable for choosing which meter you have:
+  <ul>
+    <li>day</li>
+    <li>day/night</li>
+    <li>excl. night</li>
+  </ul>
