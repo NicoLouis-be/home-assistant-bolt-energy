@@ -1,3 +1,6 @@
+## !!! DEPRECATED !!!
+# BOLT SOME SORT OF ENCRYPTS THERE PDF SO IT'S NOT POSSIBLE TO SCRAPE IT.
+
 # home-assistant-bolt-energy
 
 pyscript to automatic import the new variable tariff of "bolt energy"
